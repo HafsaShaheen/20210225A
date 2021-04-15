@@ -1,4 +1,4 @@
 This is my first line.
 This is our second line.
-Third line.
+Third line merge conflict on web
 Edited on web version.
